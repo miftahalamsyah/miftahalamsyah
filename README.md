@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miftahalamsyah&show_icons=true&theme=transparent&langs_count=8)
 
