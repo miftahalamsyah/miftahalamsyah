@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, my name is Miftah (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</h1>
-<h3 align="center">A pawang Gajah from Bandung Barat</h3>
+<h3 align="center">A pawang Gajah from Indonesia</h3>
 
 - 🌱 I’m currently learning **to accept the fact that I'm not good at programming.**
 
