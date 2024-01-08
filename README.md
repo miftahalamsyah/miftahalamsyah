@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **to accept the fact that I'm not good at programming.**
 
-- 📝 I also write articles on [miftahalamsyah.my.id/blog](miftahalamsyah.my.id/blog)
+- 📝 I also write articles on [miftahalamsyah.my.id/blog](https://miftahalamsyah.my.id/blog)
 
 - 💬 Ask me about **anything**
 
